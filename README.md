@@ -1,0 +1,1 @@
+Blog for Patrycja Krawiec realized with Jekyll and Bootstrap.
