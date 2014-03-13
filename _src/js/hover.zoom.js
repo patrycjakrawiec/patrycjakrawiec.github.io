@@ -65,6 +65,11 @@
         }
     });
     $(document).ready( function () {
+        $('.lazy').lazyload({
+            effect: 'fadeIn',
+            trehshold: 200
+        });
+        
         $('.green').hoverZoom({
             overlayColor: '#1abc9c',
             zoom: 0
