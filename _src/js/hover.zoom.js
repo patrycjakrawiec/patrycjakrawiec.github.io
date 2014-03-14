@@ -65,7 +65,7 @@
         }
     });
     $(document).ready( function () {
-        $('.lazy').lazyload({
+        $('.lazy').show().lazyload({
             effect: 'fadeIn',
             trehshold: 200
         });

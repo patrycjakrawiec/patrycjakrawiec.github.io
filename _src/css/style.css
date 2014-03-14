@@ -7420,3 +7420,6 @@ bt {
   background-size: cover;
   height: 470px;
 }
+.lazy {
+  display:none;
+}
